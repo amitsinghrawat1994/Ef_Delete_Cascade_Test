@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EF_Core_Cascade_Delete
+/EF_Core_Cascade_Delete/obj
+/EF_Core_Cascade_Delete/bin/Debug/netcoreapp3.1
